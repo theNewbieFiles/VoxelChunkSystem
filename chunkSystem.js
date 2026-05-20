@@ -1,7 +1,7 @@
 const arraySize = 4096; //16*16*16
 const BINARY15 = 0xf // 0xf = 15 or 00001111
 const SHIFTOVER8 = 8; //shift  8 bits 
-const SHIFTOVER4 = 4; //shigt to the left 4 bits
+const SHIFTOVER4 = 4; //shift to the left 4 bits
  
 // Bit allocations
 //const X_BIT_COUNT = 12; // 4096 possible values (0 - 4095)
