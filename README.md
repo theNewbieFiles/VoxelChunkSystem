@@ -1,6 +1,6 @@
 # Voxel Storage System  
 
-A high-performance, memory-efficient voxel storage system using chunk-based architecture and bit-packing. Designed to handle massive voxel worlds with low memory overhead, fast lookups, and packed voxel attributes (type, visibility, lock state).  
+A Performance‑oriented, memory-efficient voxel storage system using chunk-based architecture and bit-packing. Designed to handle massive voxel worlds with low memory overhead, fast lookups, and packed voxel attributes (type, visibility, lock state).  
 
 ## Features  
 - **Chunk-Based Architecture** – Divides the world into fixed-size chunks 16×16×16 for efficient memory and lookup operations.  
