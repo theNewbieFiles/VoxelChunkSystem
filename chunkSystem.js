@@ -25,7 +25,7 @@ export const ChunkSystem = () => {
     //get chunk;
     const chunkKey = coordsToChunkKey(x, y, z);
 
-    let chunk = chunks.get(chunkKey);;
+    let chunk = chunks.get(chunkKey);
 
     if (!chunk) {
       chunk = createChunk(); 
