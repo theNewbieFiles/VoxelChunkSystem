@@ -19,7 +19,7 @@ const Y_SHIFT = Z_BIT_COUNT;               // 12
 const Z_SHIFT = 0;                         // for clarity
 
 export const ChunkSystem = () => {
-  const chunks= new Map();
+  const chunks = new Map();
 
   const setVoxel = (x, y, z, voxel) => {
     //get chunk;
